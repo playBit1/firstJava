@@ -1,2 +1,2 @@
 # firstJava
-Cinema Room manager project from jet brain academy
+Cinema Room manager and chatbot projects from jetbrains academy
